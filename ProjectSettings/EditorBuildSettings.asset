@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MotDePasse.unity
+    guid: 2d94ce01ba1aff843b7fdee9506de65e
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 1b9ceae33f290b542bac05c8255ab427
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4fd46d0f1c0b434449148e4e435aa172
+  - enabled: 1
+    path: Assets/Scenes/NouveauPatient.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/QuelTheme.unity
+    guid: 9b8282e411870a942afa80793a32567b
+  - enabled: 1
+    path: Assets/Scenes/JeuThemeSport.unity
+    guid: 3b350aed1633cd247aa2905327189887
+  - enabled: 1
+    path: Assets/Scenes/Patient.unity
+    guid: 44b1907a5b8cd7b4c851fbe194b25ec3
+  - enabled: 1
+    path: Assets/Scenes/ModifierPatient.unity
+    guid: 3053d01f9903cff44996a30f04c73454
+  - enabled: 1
+    path: Assets/Scenes/Historique.unity
+    guid: 31c7ef206c254634886831ec6d54ec1e
+  - enabled: 1
+    path: Assets/Scenes/Quel Sport.unity
+    guid: 768d179f6752d2d4b878a1041c497214
+  - enabled: 1
+    path: Assets/Scenes/Niveau Chaud.unity
+    guid: 7c546f2a4f4d24d4f85deeef3161a103
+  - enabled: 1
+    path: Assets/Scenes/Niveau Froid.unity
+    guid: 8e66948d3e6b3e4449079d51dc23d17e
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 55be2a1008e59c04cb1da350c619b6e6, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 16cee7ef7f444be408b5345600c2c703, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 3c0c20498f7d8a343b0b4cc4c43da124, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 12cef5f4937df6f44bb5962d3f0b5c92, type: 2}

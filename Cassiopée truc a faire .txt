@@ -1,0 +1,9 @@
+Cassiopée truc a faire 
+
+regler probleme apostrophe
+ajouter bouton supprimer -> changer la méthode d'identifiant
+relier au jeu -> mode libre ou avec un patient
+code de démarrage 
+test de verification formulaire nouveau patient (et modifier)
+
+rendre tout beau et utilisable sur tablette
